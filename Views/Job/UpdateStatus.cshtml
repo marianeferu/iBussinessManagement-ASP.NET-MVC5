@@ -1,0 +1,32 @@
+﻿@model iBusinessManagement.Models.StatusJobModel
+
+@{
+    ViewBag.Title = "Update Status";
+}
+
+<h2>Add Member</h2>
+
+<form method="post" action="/Job/UpdateStatus">
+
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    @Html.LabelFor(m => m.Status)
+
+    @Html.DropDownListFor(m => m.Status, Model.Statuses)
+
+    @Html.HiddenFor(m => m.TaskId)
+
+    <button class="btn btn-sm btn-success" type="submit">Update Status</button>
+
+</form>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

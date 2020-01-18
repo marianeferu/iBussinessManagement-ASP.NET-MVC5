@@ -1,0 +1,105 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<h2>Projects Dashboard</h2>
+@if (!ViewBag.ProjectsIsEmpty)
+{
+    <div class="alert alert-warning alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+        <strong>Holy guacamole!</strong> Best check yo self, you're not taking part of any project.
+    </div>
+
+}
+
+else
+{
+    <table class="table table-striped">
+        <tr style="background-color:rgba(0,0,0,0.5)">
+            <th>
+                <h3 style="color:rgba(240,240,240,1);"> Project </h3>
+            </th>
+            <th>
+                <h3 style="color:rgba(240,240,240,1);"> Actions</h3>
+            </th>
+        </tr>
+        @foreach (iBusinessManagement.Models.Project project in ViewBag.Projects)
+
+        {
+            <tr style="background-color:rgba(195,180,167,0.5);" >
+                <td>
+                    @{
+                        if (project.OrganizerId == ViewBag.UserId)
+                        {
+                            <span class="label label-danger" style="background-color:rgba(0,0,0,0.5);">Organizer</span>
+
+
+                        }
+                        else
+                        {
+                            if (User.IsInRole("Administrator"))
+                            {
+                                <span class="label label-warning" style="background-color:rgba(195,180,167,0.5);">Administrator</span>
+
+                            }
+                            else
+                            {
+                                <span class="label label-success" style="background-color:rgba(195,180,167,0.5);">Member</span>
+
+                            }
+                        }
+                    }
+                    <strong>@project.Title</strong>
+                    <br>
+                    <br />
+                    @project.Description
+                </td>
+                <td>
+                    @if (project.OrganizerId == ViewBag.UserId || User.IsInRole("Administrator"))
+                    {
+                    <div style='display:inline !important;'>
+                        <br />
+                        <form method="get" action="/Project/Edit/@project.Id">
+                            <button type="submit" class="btn btn-secondary">Edit</button>
+                        </form>
+                        <br />
+                        <form method="post" action="/Project/Show/@project.Id">
+                            <button type="submit" class="btn btn-secondary">Project Details</button>
+                        </form>
+                        <br />
+                        <form method="post" action="/Project/Delete/@project.Id">
+                            @Html.HttpMethodOverride(HttpVerbs.Delete)
+                            <button type="submit" class="btn btn-secondary">Delete</button>
+                        </form>
+                    </div>
+                    }
+
+                    else
+                    {
+                        <div style='display:inline !important;'>
+
+                            <form method="post" action="/Project/Show/@project.Id">
+                                <button style="margin-top:30px;" type="submit" class="btn btn-secondary">Project Details</button>
+                            </form>
+                        </div>
+
+
+                    }
+                </td>
+            </tr>
+
+        }
+    </table>
+}
+<br />
+<div align="center"> <a href="/Project/New"> <button type="button" class="btn btn-primary" style="background-color:rgba(0,0,0,0.5)" >Create new project</button></a></div>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

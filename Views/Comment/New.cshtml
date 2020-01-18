@@ -1,0 +1,34 @@
+﻿@model iBusinessManagement.Models.Comment
+@{
+    ViewBag.Title = "New";
+}
+<h2>New Message</h2>
+
+<form method="post" action="/Comment/New" enctype="multipart/form-data">
+
+    @Html.HiddenFor(m => m.AuthorId)
+
+    @Html.HiddenFor(m => m.TaskId)
+
+    @Html.Label("Message", "Message")
+
+    <br />
+    @Html.TextBox("Message", null, new { @class = "form-control" })
+
+    <br />
+    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Add Comment</button>
+
+
+</form>
+
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

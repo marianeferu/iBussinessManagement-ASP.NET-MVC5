@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Lista Taskuri";
+}
+<h2>Task Dashboard</h2>
+
+@foreach (iBusinessManagement.Models.Job task in ViewBag.Tasks)
+{
+    <h3>@task.Title</h3>
+    <h4>@task.Description</h4>
+    <h4>@task.StartDate</h4>
+    <h4>@task.Deadline</h4>
+    {
+        if (task.Assignee != null)
+        {
+            <h4>@task.Assignee.UserName</h4>
+        }
+        else
+        {
+            <h4>"Unassigned"</h4>
+        }
+    }
+
+    <form method="post" action="/Job/Edit/@task.Id">
+        <button class="btn btn-sm btn-success" type="submit">Edit</button>
+    </form>
+
+    <form method="post" action="/Job/Show/@task.Id">
+        <button class="btn btn-sm btn-success" type="submit">Show</button>
+    </form>
+
+    <form method="post" action="/Job/Delete/@task.Id">
+        @Html.HttpMethodOverride(HttpVerbs.Delete)
+        <button class="btn btn-sm btn-success" type="submit">Delete</button>
+    </form>
+}
+
+<a href="/Job/New/@ViewBag.ProjectId">Create a new task</a>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

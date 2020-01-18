@@ -1,0 +1,45 @@
+﻿@model iBusinessManagement.Models.Project
+
+@{
+    ViewBag.Title = "Edit Project";
+}
+
+<h2>Edit Project</h2>
+
+<form method="post" action="/Project/Edit/@Model.Id">
+
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+    @Html.HiddenFor(m => m.Id)
+    @Html.HiddenFor(m => m.OrganizerId)
+
+    <br /><br />
+
+    @Html.Label("Title", "Project Title")
+    <br /><br />
+
+    @Html.EditorFor(m => m.Title)
+    <br /><br />
+
+    @Html.Label("Description", "Project Description")
+    <br /><br />
+
+    @Html.TextBoxFor(m => m.Description, new { style = "height:5vw; width:30vw;" })
+    <br /><br />
+
+    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Save Changes</button>
+
+    <br /><br />
+    <button class="btn btn-primary" style="background-color:rgba(0,0,0,0.5)" onclick="window.location='/Project/'">Projects Dashboard</button>
+
+</form>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

@@ -1,0 +1,31 @@
+﻿@model iBusinessManagement.Models.AssignJobModel
+
+@{
+    ViewBag.Title = "Assign Task";
+}
+
+<h2>Assign Task</h2>
+
+<form method="post" action="/Job/Assign">
+
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    @Html.LabelFor(m => m.AssigneeId)
+
+    @Html.DropDownListFor(m => m.AssigneeId, Model.MembersSelect)
+
+    @Html.HiddenFor(m => m.TaskId)
+
+    <button class="btn btn-sm btn-success" type="submit" style="background-color:rgba(0,0,0,0.5)">Assign</button>
+</form>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

@@ -1,0 +1,90 @@
+﻿@model iBusinessManagement.Models.Project
+@{
+    ViewBag.Title = "Show Project";
+}
+<h2>Project Details</h2>
+<h3>@Model.Title</h3>
+@Model.Description
+<br />
+<br />
+<h3>Tasks Dashboard<a class="btn btn-primary" href="/Job/New/@Model.Id" style="float:right;margin-right:10px;background-color:rgba(0,0,0,0.5);">Add Task </a></h3>
+
+<table class="table table-striped" >
+    @foreach (iBusinessManagement.Models.Job task in Model.Tasks)
+    {
+        <tr style="background-color:rgba(0,0,0,0.5);">
+            <td>
+                <strong>@task.Title</strong><span class="label label-default" style="margin-left:15px;">@task.Deadline</span>
+                <br />@task.Description
+            </td>
+            <td>
+                <div style="margin-top:20px; margin-right:15px; "> <h4  style="text-color:rgba(240,240,240,1); font-weight: bold; " >@task.Status</h4></div>
+            </td>
+            <td>
+                @if (Model.OrganizerId == ViewBag.CurrentUserId || User.IsInRole("Administrator"))
+                {
+
+                    <form method="edit" action="/Job/Edit/@task.Id">
+                        <button type="submit" class="btn btn-secondary"  style="text-color:rgba(240,240,240,1);">Edit Task</button>
+                    </form>
+                    <br />
+                    <form method="edit" action="/Job/Show/@task.Id">
+                        <button type="submit" class="btn btn-secondary"  style="text-color:rgba(240,240,240,1);">View Task</button>
+                    </form>
+                    <br />
+                    <form method="post" action="/Job/Delete/@task.Id">
+                        @Html.HttpMethodOverride(HttpVerbs.Delete)
+                        <button type="submit" class="btn btn-secondary" style="float:left;" style="text-color:rgba(240,240,240,1);">Delete Task</button>
+                    </form>
+                }
+
+                else
+                {
+
+                    <form method="edit" action="/Job/Show/@task.Id">
+                        <button type="submit" class="btn btn-secondary" style="margin-top:30px;">View Task</button>
+                    </form>
+
+                }
+            </td>
+        </tr>
+    }
+</table>
+<br />
+<br />
+
+<h3>Members<a class="btn btn-primary" href="/Project/AddMember/@Model.Id" style="float:right;margin-right:10px ;background-color:rgba(0,0,0,0.5);" >Add Member </a></h3>
+<table class="table table-striped">
+
+    @foreach (iBusinessManagement.Models.ApplicationUser member in Model.Members)
+    {
+        <tr style="background-color:rgba(0,0,0,0.5)">
+            <td>
+                <h5>
+                     @member.UserName
+                    @if (Model.OrganizerId == member.Id)
+                    {
+                        <span class="label label-danger"  style="background-color:rgba(195,180,167,0.5);">Organizer</span>
+
+                    }
+                    else
+                    {
+                        <span class="label label-success" style="background-color:rgba(195,180,167,0.5);">Member</span>
+                    }
+                </h5>
+            </td>
+        </tr>
+
+    }
+</table>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

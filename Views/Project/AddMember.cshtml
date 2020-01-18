@@ -1,0 +1,35 @@
+﻿@model iBusinessManagement.Models.ProjectMembersModel
+@{
+    ViewBag.Title = "Add Member";
+}
+
+<h2>Add Member to this Project</h2>
+
+<form method="post" action="/Project/AddMember">
+
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    <span class="badge">Select User</span>
+    
+    @Html.DropDownListFor(m => m.SelectedUserId, Model.UsersSelect)
+    
+    @Html.HiddenFor(m => m.ProjectId)
+    
+    <br />
+    
+    <br />
+    
+    <button class="btn btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Add Member</button>
+
+</form>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

@@ -1,0 +1,102 @@
+﻿@model iBusinessManagement.Models.Job
+@{
+    ViewBag.Title = "Show";
+}
+
+
+<br />
+<br />
+<h4><span class="label label-default">Task</span></h4> @Model.Title
+<h4><span class="label label-default">Project</span></h4> @ViewBag.ProjectTitle
+<h4><span class="label label-default">Status</span></h4> @Model.Status
+<h4><span class="label label-default">Task Description</span></h4>@Model.Description
+<h4><span class="label label-default">Start Date</span></h4>@Model.StartDate
+<h4><span class="label label-default">End Date</span></h4>@Model.Deadline
+<h4><span class="label label-default">Assignee</span></h4>
+@{
+    if (Model.Assignee != null)
+    {
+        <div>Assignee: @Model.Assignee.UserName</div>
+    }
+    else
+    {
+        <div>Unassigned</div>
+    }
+}
+<br />
+<br />
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <form method="post" action="/Project/Show/@Model.ProjectId">
+                    <button class="btn btn-primary btn-lg" type="submit" style="background-color:rgba(0,0,0,0.5);">Back</button>
+                </form>
+            </td>
+            <td>
+                <form method="post" action="/Job/UpdateStatus/@Model.Id">
+                    <button class="btn btn-primary btn-lg" type="submit" style="margin-left:10px;background-color:rgba(0,0,0,0.5);">Update Status</button>
+                </form>
+            </td>
+            <td>
+                <form method="post" action="/Job/Edit/@Model.Id">
+                    <button class="btn btn-primary btn-lg" type="submit" style="margin-left:10px; background-color:rgba(0,0,0,0.5);">Edit Task</button>
+                </form>
+            </td>
+            <td>
+                <form method="post" action="/Job/Delete/@Model.Id">
+                    @Html.HttpMethodOverride(HttpVerbs.Delete)
+                    <button class="btn btn-primary btn-lg" type="submit" style="margin-left:10px; background-color:rgba(0,0,0,0.5);">Delete Task</button>
+                </form>
+            </td>
+            <td>
+                @if (Model.AssigneeID == null)
+                {
+                    <form method="post" action="/Job/Assign/@Model.Id">
+                        <button class="btn btn-primary btn-lg" type="submit" style="margin-left:10px;background-color:rgba(0,0,0,0.5);" >Assign</button>
+                    </form>
+                }
+            </td>
+        </tr>
+    </table>
+</div>
+<br />
+<br />
+<div class="panel-heading">
+    <h3>Comments Area </h3>
+</div>
+<table class="table  table-striped" >
+    @foreach (iBusinessManagement.Models.Comment comment in Model.Comments)
+    {
+        <tr style="background-color:rgba(0,0,0,0.5)">
+            <td>@comment.Message</td>
+            <td>@comment.Author.UserName</td>
+            <td>@comment.PostedAt</td>
+            <td>
+                <form method="get" action="/Comment/Edit/@comment.Id">
+                    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Edit</button>
+                </form>
+                <br />
+                <form method="post" action="/Comment/Delete/@comment.Id">
+                    @Html.HttpMethodOverride(HttpVerbs.Delete)
+                    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Delete</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+<div align="center">
+    <form method="get" action="/Comment/New/@Model.Id">
+        <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Add Comment</button>
+    </form>
+</div>
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

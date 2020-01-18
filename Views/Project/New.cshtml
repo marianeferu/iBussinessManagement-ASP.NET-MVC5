@@ -1,0 +1,31 @@
+﻿@model iBusinessManagement.Models.Project
+
+<h2>Create your own project. Become a Manager</h2>
+<br /> <br />
+
+<form method="post" action="/Project/New" enctype="multipart/form-data">
+
+    @Html.HiddenFor(m => m.OrganizerId)
+
+    @Html.Label("Title", "Project Title")
+
+    <br /> @Html.TextBox("Title", null, new { @class = "form-control" })
+
+    <br /> @Html.Label("Description", "Project Description")
+
+    <br /> @Html.TextBox("Description", null, new { @class = "form-control" })
+
+    <br />
+    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Create Project</button>
+</form>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

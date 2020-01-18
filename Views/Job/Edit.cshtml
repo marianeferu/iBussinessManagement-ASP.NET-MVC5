@@ -1,0 +1,42 @@
+﻿@model iBusinessManagement.Models.Job
+
+@{
+    ViewBag.Title = "Edit";
+}
+<h2>Edit</h2>
+<form method="post" action="/Job/Edit/@Model.Id">
+    
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+    @Html.HiddenFor(m => m.Id)
+    @Html.HiddenFor(m => m.AssigneeID)
+    @Html.HiddenFor(m => m.StartDate)
+    @Html.HiddenFor(m => m.Status)
+    <br />
+    @Html.Label("Title", "Task Title")
+    <br />
+    @Html.EditorFor(m => m.Title)
+    <br /><br />
+    @Html.Label("Description", "Task Description")
+    <br />
+    @Html.EditorFor(m => m.Description)
+    <br /><br />
+    @Html.Label("Deadline", "Task Deadline")
+    <br />
+    @Html.EditorFor(m => m.Deadline)
+    <br /><br />
+
+    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5);">Save Changes</button>
+    <button class="btn btn-primary" style="background-color:rgba(0,0,0,0.5);" onclick="window.location ='/Project/Show/@Model.ProjectId';">All Tasks</button>
+
+</form>
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>

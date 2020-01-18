@@ -1,0 +1,34 @@
+﻿@model iBusinessManagement.Models.Comment
+@{
+    ViewBag.Title = "Edit Comment";
+}
+
+<h2>Edit Comment</h2>
+
+<form method="post" action="/Comment/Edit/@Model.Id">
+
+    @Html.HttpMethodOverride(HttpVerbs.Put)
+
+    @Html.Label("Message", "Comment Message")
+
+    <br />
+
+    @Html.EditorFor(m => m.Message)
+
+    <br /><br />
+
+    <button class="btn btn-primary" type="submit" style="background-color:rgba(0,0,0,0.5)">Edit Comment</button>
+
+</form>
+
+
+<style>
+
+    body {
+        background-image: url('/Images/i1.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+</style>
