@@ -1,0 +1,315 @@
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.dll.config
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.pdb
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.exe
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.exe.config
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.rsp
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.exe
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.exe.config
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.rsp
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Console.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.exe
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.exe.config
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.rsp
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Antlr3.Runtime.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\EntityFramework.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Newtonsoft.Json.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Owin.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Helpers.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Mvc.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Optimization.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Razor.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\WebGrease.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Helpers.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Mvc.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Optimization.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.Razor.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Newtonsoft.Json.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\EntityFramework.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csprojAssemblyReference.cache
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csproj.CopyComplete
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.dll
+C:\Users\Adi\Desktop\Dezvoltarea Aplicatiilor Web\Laborator\Proiect\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.pdb
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.dll.config
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.pdb
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.exe
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.exe.config
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.rsp
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.exe
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.exe.config
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.rsp
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.AppContext.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Console.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.exe
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.exe.config
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.rsp
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Antlr3.Runtime.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\EntityFramework.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Newtonsoft.Json.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Owin.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Helpers.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Mvc.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Optimization.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Razor.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\WebGrease.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Helpers.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Mvc.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Optimization.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.Razor.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Newtonsoft.Json.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Antlr3.Runtime.pdb
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\EntityFramework.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csproj.CopyComplete
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.dll
+C:\Users\Maria\Desktop\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.pdb
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.dll.config
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\iBusinessManagement.pdb
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.exe
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.exe.config
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\csc.rsp
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.exe
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.exe.config
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\csi.rsp
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.AppContext.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Console.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Compression.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.FileSystem.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.IO.Pipes.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.AccessControl.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Claims.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Security.Principal.Windows.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.ValueTuple.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XPath.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.exe
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.exe.config
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\vbc.rsp
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\VBCSCompiler.exe
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Antlr3.Runtime.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\EntityFramework.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\EntityFramework.SqlServer.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Newtonsoft.Json.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Owin.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Helpers.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Mvc.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Optimization.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Razor.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Deployment.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Razor.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\WebGrease.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Helpers.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Mvc.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Optimization.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.Razor.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Deployment.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\System.Web.WebPages.Razor.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Newtonsoft.Json.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Antlr3.Runtime.pdb
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\EntityFramework.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\EntityFramework.SqlServer.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csprojAssemblyReference.cache
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csproj.CoreCompileInputs.cache
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.csproj.CopyComplete
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.dll
+D:\info\Anul 3 info\DAW\iBusinessManagement\iBusinessManagement\obj\Debug\iBusinessManagement.pdb
